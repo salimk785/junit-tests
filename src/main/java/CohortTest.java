@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class CohortTest {
+public class CohortTest {
+    // Testing
 }
